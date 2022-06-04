@@ -22,6 +22,8 @@ I am softwar Engineer by Profession. I mostly work as a Full Stack Developer.
 - waqaskanju@gmail.com
 - http://www.waqaskanju.com
 - twitter.com/waqaskanju
+
+I am looking forwared to work as a Full Stack Developer in my future job.
 <!--
 **waqaskanju/waqaskanju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
