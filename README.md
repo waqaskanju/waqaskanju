@@ -1,7 +1,9 @@
 ![Waqas ahmad](https://user-images.githubusercontent.com/13853450/171985953-1e1779a1-4a7b-4fd4-be64-38046eb3d96e.png)
 
-### Hi there I am Waqas Ahmad👋
+## Hi there I am Waqas Ahmad👋
 
+### Introduction
+I am softwar Engineer by Profession. I mostly work as a Full Stack Developer.
 <!--
 **waqaskanju/waqaskanju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
