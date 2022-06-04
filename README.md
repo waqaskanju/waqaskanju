@@ -9,12 +9,19 @@ I am softwar Engineer by Profession. I mostly work as a Full Stack Developer.
 - I have a Master Degree in Software Engieering from Bahria University Islamabad (https://www.bahria.edu.pk/). I completed my Masters in 2018.
 - I did my Bachelor Degree in Software Engieering in 2015 From [University of Swat][https://uswat.edu.pk/].
 
-## Experience
-
+### Development Experience
 - Worked as Full Stack Developer in EducationOnClick (2018-2019)
 - Worked as Python Developer in ERISP (2019)
 - Worked as Full Stack Developer in E-Learning (2017-2018)
 - Worked as Web Developer in EATVC (2014-2015)
+
+### Teaching Experience
+-Worked as Lecturer in Computer Science Department University of Swat. (2020-2021)
+
+### Get In Touch
+- waqaskanju@gmail.com
+- http://www.waqaskanju.com
+- twitter.com/waqaskanju
 <!--
 **waqaskanju/waqaskanju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
