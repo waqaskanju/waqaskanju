@@ -5,9 +5,12 @@
 ### Introduction
 I am softwar Engineer by Profession. I mostly work as a Full Stack Developer.
 
-# Education
-I have a Master Degree in Software Engieering from Bahria University Islamabad (https://www.bahria.edu.pk/). I completed my Masters in 2018.
-I did my Bachelor in Software Engieering in 2015 From [University of Swat][https://uswat.edu.pk/].
+### Education
+- I have a Master Degree in Software Engieering from Bahria University Islamabad (https://www.bahria.edu.pk/). I completed my Masters in 2018.
+- I did my Bachelor Degree in Software Engieering in 2015 From [University of Swat][https://uswat.edu.pk/].
+
+## Experience
+- Worked as Full Stack Developer in EducationOnClick.
 <!--
 **waqaskanju/waqaskanju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
