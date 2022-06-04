@@ -10,7 +10,11 @@ I am softwar Engineer by Profession. I mostly work as a Full Stack Developer.
 - I did my Bachelor Degree in Software Engieering in 2015 From [University of Swat][https://uswat.edu.pk/].
 
 ## Experience
-- Worked as Full Stack Developer in EducationOnClick.
+
+- Worked as Full Stack Developer in EducationOnClick (2018-2019)
+- Worked as Python Developer in ERISP (2019)
+- Worked as Full Stack Developer in E-Learning (2017-2018)
+- Worked as Web Developer in EATVC (2014-2015)
 <!--
 **waqaskanju/waqaskanju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
