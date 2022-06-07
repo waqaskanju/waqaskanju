@@ -9,6 +9,9 @@ I am softwar Engineer by Profession. I mostly work as a Full Stack Developer.
 
 [![Waqas's GitHub stats](https://github-readme-stats.vercel.app/api?username=waqaskanju)](https://github.com/waqaskanju/github-readme-stats)
 
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waqaskanju)](https://github.com/waqaskanju/github-readme-stats)
 
 ### Education
 - I have a Master Degree in Software Engieering from Bahria University Islamabad (https://www.bahria.edu.pk/). I completed my Masters in 2018.
