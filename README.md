@@ -3,7 +3,7 @@
 ## Hi there I am Waqas Ahmad👋
 
 ### Introduction
-I am softwar Engineer by Profession. I mostly work as a Full Stack Developer.
+I am software Engineer by Profession. I mostly work as a Full Stack Developer.
 
 ### Github Stats
 
