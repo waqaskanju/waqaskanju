@@ -3,7 +3,17 @@
 ## Hi there I am Waqas Ahmad👋
 
 ### Introduction
-I am software Engineer by Profession. I mostly work as a Full Stack Developer.
+
+Hello, My name is Waqas Ahmad. I'm a full-stack software engineer, 
+I work in JavaScript, Bootstrap, Jquery, PHP and Python.
+
+Currently, I am learning at  Microverse software development which allows me to 
+become a remote Full-Stack developer using industry-standard techniques and 
+a pair-programming environment. Almost every week 
+I need to work and complete a new project.
+
+So for I have worked with worked with 3 Startups and two software houses. Where I worked
+as Full-Stack developer and developed LMS and ERP applications.
 
 ### Github Stats
 
